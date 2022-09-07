@@ -1,1 +1,1 @@
-# MLPMIxerHAR
+# MLPMixerHAR
