@@ -2,8 +2,8 @@
 
 MLP Mixer For Human Activity Recognition - Pytorch
 
-### Model
-The MLP-Mixer is in ./models/
+## Model
+### The MLP-Mixer is in ./models/
 ### To use the pretrain Mixer download Pre-trained model (Google's Official Checkpoint)
 * [Available models](https://console.cloud.google.com/storage/browser/mixer_models): Mixer-B_16, Mixer-L_16
   * imagenet-21k pre-train models
@@ -13,17 +13,17 @@ The MLP-Mixer is in ./models/
 wget https://storage.googleapis.com/mixer_models/imagenet21k/{MODEL_NAME}.npz
 ```
 
-### Datasets
+## Datasets
 The dataset managers are in the folder ./datasets/
 The datasets used are:
 
-Opportunity
+Opportunity:
 https://archive.ics.uci.edu/ml/datasets/opportunity+activity+recognition
 
-Daphner Gait 
+Daphner Gait: 
 https://archive.ics.uci.edu/ml/datasets/Daphnet+Freezing+of+Gait
 
-PAMAP2
+PAMAP2:
 https://archive.ics.uci.edu/ml/datasets/pamap2+physical+activity+monitoring
 
 
